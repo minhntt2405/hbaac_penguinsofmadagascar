@@ -70,7 +70,7 @@ The model aims to optimize the Weighted Root Mean Squared Scaled Error (WRMSSE).
 ```text
 ├── train.csv               # Raw historical sales data
 ├── sample_submission.csv   # Template for submission
-├── forecast_model_lgbm.py  # Main processing & forecasting pipeline
+├── forecast_model_v2.py  # Main processing & forecasting pipeline
 ├── submission_lgbm.csv     # Generated forecast output
 └── README.md               # Project documentation
 
